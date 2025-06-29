@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",          // 目标 JS 版本
+    "module": "ESNext",          // 模块系统
+    "moduleResolution": "Node",  // 模块解析策略
+    "strict": true,              // 开启严格类型检查（重要！）
+    "jsx": "preserve",           // 若使用 JSX 需要保留
+    "sourceMap": true,           // 生成 sourceMap 便于调试
+    "resolveJsonModule": true,   // 允许导入 JSON 文件
+    "esModuleInterop": true,     // 兼容 CommonJS 模块
+    "lib": ["ESNext", "DOM"]     // 包含 DOM 类型（路由需要操作 DOM）
+  },
+  "include": ["src/**/*"],       // 包含 src 目录所有文件
+  "exclude": ["node_modules"]    // 排除 node_modules
+}
