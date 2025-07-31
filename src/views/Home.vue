@@ -7,7 +7,7 @@
           <div class="bg-primary text-white p-2 rounded-lg">
             <i class="fa fa-cloud text-xl"></i>
           </div>
-          <span class="text-xl font-bold text-white">气象智防</span>
+          <span class="text-xl font-bold text-white">汛眼守卫</span>
         </a>
 
         <!-- 桌面导航 -->
@@ -49,7 +49,7 @@
 
       <div class="container mx-auto px-4 z-10 text-center">
         <h1 class="text-[clamp(2.5rem,5vw,4rem)] font-bold text-white leading-tight mb-6 text-shadow">
-          洪涝灾害智能预警系统
+          汛眼守卫———人工智能气象预警系统
         </h1>
         <p class="text-[clamp(1rem,2vw,1.25rem)] text-white/90 max-w-3xl mx-auto mb-10">
           融合双AI模型，打造从预警到评估的新型预警系统，守护生命财产安全
@@ -269,7 +269,7 @@
                 </div>
                 <div>
                   <h4 class="text-lg font-medium mb-1">电子邮箱</h4>
-                  <p class="text-white/70">contact@weather-ai.com</p>
+                  <p class="text-white/70">hzq406@stu.gdou.edu.cn</p>
                 </div>
               </div>
 
@@ -279,7 +279,7 @@
                 </div>
                 <div>
                   <h4 class="text-lg font-medium mb-1">联系电话</h4>
-                  <p class="text-white/70">+86 10 8888 7777</p>
+                  <p class="text-white/70">+86 13968664093</p>
                 </div>
               </div>
 
@@ -289,7 +289,7 @@
                 </div>
                 <div>
                   <h4 class="text-lg font-medium mb-1">办公地址</h4>
-                  <p class="text-white/70">北京市海淀区中关村南大街5号</p>
+                  <p class="text-white/70">广东省湛江市麻章区海大路1号</p>
                 </div>
               </div>
             </div>
@@ -375,7 +375,7 @@
         </div>
 
         <div class="pt-8 border-t border-white/10 text-center">
-          <p>&copy; 2025 气象智防科技. 保留所有权利.</p>
+          <p>&copy; 2025 汛眼守卫科技. 保留所有权利.</p>
         </div>
       </div>
     </footer>

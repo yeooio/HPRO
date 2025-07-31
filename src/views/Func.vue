@@ -5,7 +5,7 @@
         <div class="logo-circle">
           <i class="fas fa-shield-alt fa-2x"></i>
         </div>
-        <div class="logo-text">智御洪枢</div>
+        <div class="logo-text">汛眼守卫</div>
       </div>
       <p class="subtitle">基于双模AI的洪涝灾害全周期防控系统 - 融合反光感知与轻量化CNN的智慧防灾平台</p>
     </header>
@@ -132,7 +132,7 @@
           <div class="model-info">
             <div>
               <div class="model-title">轻量化CNN模型</div>
-              <p>仅10层网络，参数量1.2M，适配无人机端部署</p>
+              <p><10层网络，参数量1.2M，适配无人机端部署</p>
             </div>
             <div>
               <div class="model-title">实时性能</div>
